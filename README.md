@@ -34,7 +34,7 @@ TaskBlaze is a portable Windows application, ready to run out of the box!
 
 ### Prerequisites
 - **Operating System**: Windows 10 or later (64-bit)
-- **Disk Space**: ~50 MB for the application
+- **Disk Space**: ~1 MB for the application
 - **Optional**: 7-Zip or similar to extract the ZIP archive
 
 ### Steps to Install
@@ -72,7 +72,7 @@ For detailed instructions, check the [User Guide](docs/USER_GUIDE.md) (coming so
 | **Language**   | C++ (backend), Qt (UI)              |
 | **AI Engine**  | Embedded lightweight ML model       |
 | **Storage**    | Local SQLite database               |
-| **Size**       | ~50 MB (extracted)                  |
+| **Size**       | ~1 MB (extracted)                  |
 
 - **Portable**: No installation or registry changes required.
 - **Dependencies**: None—everything is bundled in the `.exe`.
