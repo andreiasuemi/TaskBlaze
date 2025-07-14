@@ -38,7 +38,7 @@ TaskBlaze is a portable Windows application, ready to run out of the box!
 - **Optional**: 7-Zip or similar to extract the ZIP archive
 
 ### Steps to Install
-1. **Download**: Grab the latest release from the [Releases](https://github.com/your-username/TaskBlaze/releases) page.
+1. **Download**: Grab the latest release from the [Releases](https://github.com/andreiasuemi/TaskBlaze/releases) page.
 2. **Extract**:
    - Unzip the `TaskBlaze.zip` file using the password: `BBC_FKANWLBIKDA1`.
    - Use a tool like 7-Zip if your default archiver prompts for a password.
@@ -122,9 +122,8 @@ See our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
 ## 📬 Support & Community
 
-- **Issues**: Report bugs or request features on [GitHub Issues](https://github.com/your-username/TaskBlaze/issues).
-- **Community**: Join the discussion on [Discord](https://discord.gg/your-invite-link).
-- **Email**: Contact us at taskblaze@your-email.com.
+- **Issues**: Report bugs or request features on [GitHub Issues](https://github.com/andreiasuemi/TaskBlaze/issues).
+- **Email**: Contact us at taskblaze@taskblaze.com.
 
 ---
 
