@@ -2,7 +2,7 @@
 
 **A powerful, AI-driven task management tool to ignite your productivity!**
 
-![TaskBlaze Banner](https://via.placeholder.com/1200x400.png?text=TaskBlaze+-+Organize+Your+World)  
+
 *Master your tasks with smart prioritization, sleek design, and seamless performance.*
 
 ---
